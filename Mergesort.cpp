@@ -3,10 +3,10 @@
 using namespace std;
 
 void mergesort(int a[], int left, int right){
-    if(left>right){
+    if(left>=right){
         
     }
-    int m=(l+r)/2;
+    int m=(left+right)/2;
     
 }
 
